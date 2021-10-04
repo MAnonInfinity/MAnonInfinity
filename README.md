@@ -71,3 +71,8 @@
 <img alt="Manan Varma's Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MAnonInfinity&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>
 <br><br>	
 
+<div align="center">
+  
+Show ❤️ by 🌟 my [repositories](https://github.com/KishanModi?tab=repositories)!
+  
+</div>
