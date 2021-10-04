@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/manan-varma-440b66162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyarajsinh-chudasama-a5109b1a7" height="35" width="40" /></a>&nbsp; 
-<a href="https://instagram.com/manon_infinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyarajsinh__rajput" height="35" width="40" /></a>
+[instagram]: https://instagram.com/manon_infinity
+[linkedin]: https://www.linkedin.com/in/manan-varma-440b66162/
 </p>
 
 
