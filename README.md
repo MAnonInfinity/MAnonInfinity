@@ -17,6 +17,8 @@
 
 - 💬 Ask me about **React & Node**
 
+- 🧠 I love solving **DSA Problems**
+
 - 📫 How to reach me **mananvarma5401@gmail.com**
 
 - ⚡ Fun fact **I am a Gamer & a Calisthenics Athlete....**
