@@ -28,15 +28,6 @@
 [<img align="left" alt="MananVarma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MananVarma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br>
-<p align="left">
-[instagram]: https://instagram.com/manon_infinity
-[linkedin]: https://www.linkedin.com/in/manan-varma-440b66162/
-</p>
-
-
-<br>
-
 ### Languages and Tools:
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
@@ -63,7 +54,14 @@
 
 <br />
 
+<br>
+<p align="left">
+[instagram]: https://instagram.com/manon_infinity
+[linkedin]: https://www.linkedin.com/in/manan-varma-440b66162/
+</p>
 
+
+<br>
 
   <hr>
   <p align="center">
