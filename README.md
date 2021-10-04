@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manan Varma</h1>
 <!-- ![Hi, I'm Manan 👋 I'm a 🚀 MERN Stack developer 🚀 I ❤️ JavaScript ❤️] -->
-<h3 align="center">A zealous software developer from Earth</h3>
+<h3 align="center">A zealous software developer from Around Here</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Web%20Developer;Self-taught%20JavaScript%20Developer;1%2B%20years%20of%20coding%20experience;Invariably%20learning%20new%20stuff&center=true&width=380&height=45"></a>
 </p>
