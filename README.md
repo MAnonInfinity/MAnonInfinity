@@ -75,6 +75,6 @@
 
 <div align="center">
   
-Show ❤️ by 🌟 my [repositories](https://github.com/MAnonInfinity?tab=repos)!
+Show ❤️ by 🌟 my [Repos](https://github.com/MAnonInfinity?tab=repositories)!
   
 </div>
